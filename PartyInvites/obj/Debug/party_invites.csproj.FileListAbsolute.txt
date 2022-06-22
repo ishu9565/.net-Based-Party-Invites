@@ -1,0 +1,17 @@
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\party_invites.dll.config
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\party_invites.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\party_invites.pdb
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Helpers.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Mvc.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Razor.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Webpages.Deployment.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Webpages.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Webpages.Razor.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Razor.xml
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Webpages.xml
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Webpages.Deployment.xml
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Webpages.Razor.xml
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Helpers.xml
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\bin\System.Web.Mvc.xml
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\obj\Debug\party_invites.dll
+c:\users\ishu.gupta\documents\visual studio 2013\Projects\party_invites\party_invites\obj\Debug\party_invites.pdb
